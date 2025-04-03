@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm G.M. Pesandu Pehansith Abeynayake</h1>
-Full Stack Developer & Technology Enthusiast | Sri Lanka 🇱🇰</h3>
+<h3 align="center">Full Stack Developer & Technology Enthusiast | Sri Lanka 🇱🇰</h3>
 <div align="center">
-Show Image
-Show Image
-Show Image
+https://komarev.com/ghpvc/?username=pesandupehansith&label=Profile%20views&color=0e75b6&style=for-the-badge.
+https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake
+pesandupehansith@gmail.com
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pesandupehansith&label=Profile%20views&color=0e75b6&style=flat" alt="pesandupehansith" /> </p>
