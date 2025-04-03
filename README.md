@@ -10,14 +10,15 @@
   
 </div>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith" alt="pesandupehansith" /></a> </p>
+<div align="center">
+  <a href="https://github.com/pesandupehansith">
+    <img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="pesandupehansith's GitHub Trophies" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
 </div>
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🚀 About Me
 
