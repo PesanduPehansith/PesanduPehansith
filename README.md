@@ -17,6 +17,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
 </div>
 
+<img align="right" height="270px" width="450px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 ## 🚀 About Me
 
 > *"Turning ideas into elegant, functional solutions through code."*
