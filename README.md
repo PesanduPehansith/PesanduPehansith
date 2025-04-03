@@ -105,7 +105,7 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss technology, potential projects, or just chat about software development!
 
 Email: **pesandupehansith@gmail.com**  
-LinkedIn: **[G.M. Pesandu Pehansith Abeynayake]**(https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
+LinkedIn: [**G.M. Pesandu Pehansith Abeynayake**](https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
