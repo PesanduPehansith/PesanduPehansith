@@ -12,6 +12,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith" alt="pesandupehansith" /></a> </p>
 
+---
+
 ## 🚀 About Me
 
 > *"Turning ideas into elegant, functional solutions through code."*
@@ -28,9 +30,7 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 
 - 💬 Ask me about **software development, web technologies, machine learning, or anything tech-related!**
 
-- 📫 How to reach me **pesandupehansith@gmail.com**
-
-- ⚡ Fun fact: **I can spend hours debugging code, only to realize it was a missing semicolon! 😆**
+---
 
 ## 🛠️ Technical Stack
 
