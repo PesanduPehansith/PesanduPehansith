@@ -10,9 +10,10 @@
   
 </div>
 
+
 <div align="center">
   <a href="https://github.com/pesandupehansith">
-    <img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith&theme=nord&column=-1&no-bg=true&no-frame=true&rank=-C,-B,-A,S,SS,SSS,SECRET" alt="pesandupehansith's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith&theme=nord&column=8&no-bg=true&no-frame=true&margin-w=4" alt="pesandupehansith's GitHub Trophies" />
   </a>
 </div>
 
