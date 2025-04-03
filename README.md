@@ -77,9 +77,23 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pesandupehansith&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+## 💡 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pesandupehansith&show_icons=true&locale=en&layout=compact" alt="pesandupehansith" /></p>
+*Coming soon... I'm working on documenting and showcasing my best work here!*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pesandupehansith&show_icons=true&locale=en" alt="pesandupehansith" /></p>
+---
 
+## 📫 Let's Connect
 
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss technology, potential projects, or just chat about software development!
+
+Email: **pesandupehansith@gmail.com**  
+LinkedIn: [G.M. Pesandu Pehansith Abeynayake](https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
+
+---
+
+<div align="center">
+  
+  ⚡ **Fun Fact:** I can spend hours debugging code, only to realize it was a missing semicolon! 😆
+
+</div>
