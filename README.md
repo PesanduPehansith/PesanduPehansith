@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm G.M. Pesandu Pehansith Abeynayake</h1>
 <h3 align="center">Full Stack Developer & Technology Enthusiast | Sri Lanka 🇱🇰</h3>
+
 <div align="center">
-https://komarev.com/ghpvc/?username=pesandupehansith&label=Profile%20views&color=0e75b6&style=for-the-badge.
-https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake
-pesandupehansith@gmail.com
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=pesandupehansith&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pesandupehansith@gmail.com)
+  
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pesandupehansith&label=Profile%20views&color=0e75b6&style=flat" alt="pesandupehansith" /> </p>
