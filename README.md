@@ -78,7 +78,6 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 </div>
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pesandupehansith&show_icons=true&locale=en&layout=compact" alt="pesandupehansith" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pesandupehansith&show_icons=true&locale=en" alt="pesandupehansith" /></p>
