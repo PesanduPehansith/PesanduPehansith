@@ -9,9 +9,14 @@
   
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pesandupehansith&label=Profile%20views&color=0e75b6&style=flat" alt="pesandupehansith" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith" alt="pesandupehansith" /></a> </p>
+
+## 🚀 About Me
+
+> *"Turning ideas into elegant, functional solutions through code."*
+
+I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for building innovative software solutions. My journey in technology is driven by constant learning and the desire to create meaningful applications that solve real-world problems.
 
 - 🔭 I’m currently working on **Wedding Planning Application**
 
