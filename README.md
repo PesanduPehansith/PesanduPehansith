@@ -91,6 +91,12 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 Email: **pesandupehansith@gmail.com**  
 LinkedIn: [G.M. Pesandu Pehansith Abeynayake](https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
 
+<p>
+    <a href="mailto:pesandupehansith@gmail.com">
+      <img src="https://img.shields.io/badge/Email-pesandupehansith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
 ---
 
 <div align="center">
@@ -102,6 +108,3 @@ LinkedIn: [G.M. Pesandu Pehansith Abeynayake](https://linkedin.com/in/g-m-pesand
 <br/>
   <p><i>Thank you for visiting my profile!</i></p>
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge" alt="Made with love"/>
-  </p>
-</div>
