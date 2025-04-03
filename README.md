@@ -84,6 +84,10 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pesandupehansith&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
+</div>
+
 ## 💡 Featured Projects
 
 *Coming soon... I'm working on documenting and showcasing my best work here!*
