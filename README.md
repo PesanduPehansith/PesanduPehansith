@@ -2,6 +2,12 @@
 <h3 align="center">Full Stack Developer & Technology Enthusiast | Sri Lanka 🇱🇰</h3>
 
 <div align="center">
+
+<p>
+    <a href="https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:pesandupehansith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=pesandupehansith&style=flat-square&color=blue" alt="Profile Views" />
+  </p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=pesandupehansith&label=Profile%20views&color=0e75b6&style=for-the-badge)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
@@ -97,3 +103,7 @@ LinkedIn: [G.M. Pesandu Pehansith Abeynayake](https://linkedin.com/in/g-m-pesand
   ⚡ **Fun Fact:** I can spend hours debugging code, only to realize it was a missing semicolon! 😆
 
 </div>
+
+<br/>
+  <p><i>Thank you for visiting my profile!</i></p>
+  <p>
