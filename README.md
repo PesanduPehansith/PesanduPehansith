@@ -32,11 +32,6 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 
 - ⚡ Fun fact: **I can spend hours debugging code, only to realize it was a missing semicolon! 😆**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-m-pesandu-pehansith-abeynayake" height="30" width="40" /></a>
-</p>
-
 ## 🛠️ Technical Stack
 
 ### Frontend Development
@@ -67,6 +62,22 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pesandupehansith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pesandupehansith&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pesandupehansith&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pesandupehansith&show_icons=true&locale=en&layout=compact" alt="pesandupehansith" /></p>
 
