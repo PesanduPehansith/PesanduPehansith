@@ -15,6 +15,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
+</div>
+
 ## 🚀 About Me
 
 > *"Turning ideas into elegant, functional solutions through code."*
@@ -90,12 +94,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 Email: **pesandupehansith@gmail.com**  
 LinkedIn: [G.M. Pesandu Pehansith Abeynayake](https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
-
-<p>
-    <a href="mailto:pesandupehansith@gmail.com">
-      <img src="https://img.shields.io/badge/Email-pesandupehansith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
 
 ---
 
