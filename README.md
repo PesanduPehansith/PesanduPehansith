@@ -33,7 +33,9 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 
 - 💬 Ask me about **software development, web technologies, machine learning, or anything tech-related!**
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
+</div>
 
 ## 🛠️ Technical Stack
 
