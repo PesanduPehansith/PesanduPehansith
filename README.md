@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/pesandupehansith">
-    <img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="pesandupehansith's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pesandupehansith&theme=nord&column=7&margin-w=15&margin-h=15 no-bg=true&no-frame=true" alt="pesandupehansith's GitHub Trophies" />
   </a>
 </div>
 
