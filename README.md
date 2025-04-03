@@ -66,7 +66,9 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -86,7 +88,9 @@ I'm a passionate Full Stack Developer from Sri Lanka with a deep enthusiasm for 
 
 *Coming soon... I'm working on documenting and showcasing my best work here!*
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
+</div>
 
 ## 📫 Let's Connect
 
@@ -95,7 +99,9 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 Email: **pesandupehansith@gmail.com**  
 LinkedIn: [G.M. Pesandu Pehansith Abeynayake](https://linkedin.com/in/g-m-pesandu-pehansith-abeynayake)
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
+</div>
 
 <div align="center">
   
