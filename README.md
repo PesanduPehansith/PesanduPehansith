@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pesandupehansith@gmail.com**
 
-- ⚡ Fun fact **I can spend hours debugging code, only to realize it was a missing semicolon! 😆**
+- ⚡ Fun fact: **I can spend hours debugging code, only to realize it was a missing semicolon! 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
